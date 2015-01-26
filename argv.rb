@@ -26,7 +26,7 @@ else
   puts "
   Witam w świecie Rubinka :)
   Jeśli chcesz dowiedzieć się więcej o którymś z poniższych tematów,
-  wpisz \"ruby basics.rb <numer tematu>\"
+  wpisz \"ruby argv.rb <numer tematu>\"
   
   1: Hello World!
   2: Odwróć napis
