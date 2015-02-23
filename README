@@ -10,64 +10,16 @@ RoR Installation on *ubuntu 14.10:
 -gem install rails
 -sudo apt-get install nodejs
 
-
-
-Some basics:
--rails new application_name
--rails g scaffold scaffold_name attributes
--rails g model model_name attributes
--rake db:migrate
-
--rails c
--reload!
--model/scaffold_name.create(attrib_name: "name")
-
--rails s
--rails g migration scaffold_name new_attribute
-
--40.to_s
--[]
--[12,23,34].max
--[12,23,34].sort!
--lista[0]='13'
--"aqq acc"['aqq']='qqa'
--"aqq \n 2nd line".lines
--"aqq 2nd line".include? 'aqq'
--{"tytul2"=>:kicha}.length
--{} or Hash.new(0)
--ksiazki.values
--ksiazki.keys
--5.times{print 'aqq'}
--gets or gets.chomp (reads the input without \n)
--FileUtils.cp('/comics.txt', '/Home/comics.txt')
--File.open(""/Home/comics.txt"", ""a"") do |f|
-f << 'costam'
-end
--print File.read('/Home/comics.txt')
--print File.mtime('/Home/comics.txt').hour
--def load_comics( path )
-comics = {}
-File.foreach(path) do |line|
-name, url=line.split(': ')
-comics[name]=url.strip
-end
-comics
-end
-
-
-trigger creating before an alteration of the object state:
-before_create :record_signup, if: :condition?
-def record_signup
-  self.date==Date.today
-end
-def condition?
-  self.some_field=some_value
-end
-
-trigger validating before an alteration of the object state:
-validates :username, presence: true
-validates :role, inclusion: {in: %(regular admin)}
-
-set up a root route for index:
-resources :module_name
-root :to => 'module_name#index'
+RB files:
+1 - convert integer to string
+2 - create a table, populate with random values, indicate max, sort
+3 - characters switch in string
+4 - put text lines into table
+5 - check phrase occurence in string
+6 - display hash length
+7 - display values and keys
+8 - read the input
+9 - copy file
+10 - append a file
+11 - read a file
+12 - display last modification date (hour)
