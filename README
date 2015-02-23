@@ -11,15 +11,36 @@ RoR Installation on *ubuntu 14.10:
 -sudo apt-get install nodejs
 
 RB files:
-1 - convert integer to string
-2 - create a table, populate with random values, indicate max, sort
-3 - characters switch in string
-4 - put text lines into table
-5 - check phrase occurence in string
-6 - display hash length
-7 - display values and keys
-8 - read the input
-9 - copy file
+01 - convert integer to string
+02 - create a table, populate with random values, indicate max, sort
+03 - characters switch in string
+04 - put text lines into table
+05 - check phrase occurence in string
+06 - display hash length
+07 - display values and keys
+08 - read the input
+09 - copy file
 10 - append a file
 11 - read a file
 12 - display last modification date (hour)
+13 - simple if
+14 - simple for
+15 - simple while
+16 - create and use a method
+17 - create and use method with parameters
+18 - create hash, check if it's empty, display size and convert to array
+19 - put each string character into table
+20 - reverse string / reverse string permanently
+21 - switch variables without tmp
+22 - modulus
+23 - factorial
+24 - get the last characte<r from inputed string
+25 - get the middle character (approx)
+26 - strings joining
+27 - check whether inputed name is male's or female's one (approx)
+28 - check if inputed value is greater than 0, or not
+29 - list all elements of the table (2 ways)
+30 - iterate the table and multiply each element by 2
+31 - add additional element to the table
+31 - reverse the table
+

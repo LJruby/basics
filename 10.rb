@@ -1,3 +1,3 @@
 File.open('/home/lj/test', 'a') do |f|
-	f << "aqq"
+	f << "add-on"
 end

@@ -1,3 +1,3 @@
-string="super extra string"
+string="superb extra string"
 p string.include? "extra"
-p string.include? "superb"
+p string.include? "cool"
