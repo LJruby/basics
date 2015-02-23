@@ -43,4 +43,12 @@ RB files:
 30 - iterate the table and multiply each element by 2
 31 - add additional element to the table
 31 - reverse the table
+32 - iterate the table and display choosen pattern (if exists)
+33 - create random array, put only choosen elements to second array
+34 - check pythagorean triples
+35 - sum all digits from given number
+36 - check whether given number equals i*i, where i is an integer
+37 - exponent
+38 - greatest common divisor
+39 - uppercase to lowercase and vice versa
 
