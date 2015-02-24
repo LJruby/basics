@@ -11,10 +11,11 @@ RoR Installation on *ubuntu 14.10:
 -sudo apt-get install nodejs
 
 RB files:
+argv - playing with string and arrays
 01 - convert integer to string
-02 - create a table, populate with random values, indicate max, sort
+02 - create an array, populate with random values, indicate max, sort
 03 - characters switch in string
-04 - put text lines into table
+04 - put text lines into array
 05 - check phrase occurence in string
 06 - display hash length
 07 - display values and keys
@@ -29,7 +30,7 @@ RB files:
 16 - create and use a method
 17 - create and use method with parameters
 18 - create hash, check if it's empty, display size and convert to array
-19 - put each string character into table
+19 - put each string character into array
 20 - reverse string / reverse string permanently
 21 - switch variables without tmp
 22 - modulus
@@ -39,11 +40,11 @@ RB files:
 26 - strings joining
 27 - check whether inputed name is male's or female's one (approx)
 28 - check if inputed value is greater than 0, or not
-29 - list all elements of the table (2 ways)
-30 - iterate the table and multiply each element by 2
-31 - add additional element to the table
-31 - reverse the table
-32 - iterate the table and display choosen pattern (if exists)
+29 - list all elements of the array (2 ways)
+30 - iterate the array and multiply each element by 2
+31 - add additional element to the array
+31 - reverse the array
+32 - iterate the array and display choosen pattern (if exists)
 33 - create random array, put only choosen elements to second array
 34 - check pythagorean triples
 35 - sum all digits from given number
@@ -51,15 +52,15 @@ RB files:
 37 - exponent
 38 - greatest common divisor
 39 - uppercase to lowercase and vice versa
-40 - display all table elements (3 ways)
-41 - display unique table elements
-42 - changing the table using map function
+40 - display all array elements (3 ways)
+41 - display unique array elements
+42 - changing the array using map function
 43 - list keys and values in hash
 44 - select desired hash element
 45 - merge two hashes
 46 - iterate on range
-47 - convert table to hash
-48 - show table elements (in function)
+47 - convert array to hash
+48 - show array elements (in function)
 49 - constant value definition
 50 - class creation (initialize method)
 51 - create class accessor method
