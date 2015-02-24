@@ -51,4 +51,26 @@ RB files:
 37 - exponent
 38 - greatest common divisor
 39 - uppercase to lowercase and vice versa
+40 - display all table elements (3 ways)
+41 - display unique table elements
+42 - changing the table using map function
+43 - list keys and values in hash
+44 - select desired hash element
+45 - merge two hashes
+46 - iterate on range
+47 - convert table to hash
+48 - show table elements (in function)
+49 - constant value definition
+50 - class creation (initialize method)
+51 - create class accessor method
+52 - class creation (initialize with parameters)
+53 - private methods
+54 - puts chosen class variables into array
+55 - define to_s for class (allows for using puts on class itself)
+56 - getter && setter
+57 - accessors (build-in getters && setters)
+58 - object are accessible through references
+59 - class static method
+60 - modules inclusion
+61 - class inheritance
 
