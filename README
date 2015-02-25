@@ -2,7 +2,7 @@ RoR Installation on *ubuntu 14.10:
 
 -sudo apt-get install curl
 -curl -L get.rvm.io | bash -s stable --auto (try downloading the signatures and repeat command)
--source "$HOME/.rvm/scripts/rvm" (after restart make sure that the line is visible in .bash_profile and/or .profile)
+-source "$HOME/.rvm/scripts/rvm" (after restart make sure that the line is visible in .bashrc)
 -rvm get stable --autolibs=enable
 -rvm install ruby
 -rvm --default use ruby-x.x.x (to change version to desired one)
